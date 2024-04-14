@@ -23,3 +23,14 @@ As well we applied fasta file with repeatitive elements of *F.hepatica* genome (
 ### Workflow
 ![workflow](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/scheme.jpg)
 
+## Results
+[Kallisto and sleuth results](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/tree/main/f_kallisto)
+
+[Venn diagram, illustrating stage-specific and common expressed repeats](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/venn1.jpg)
+
+[Jensen-Shannon divergence heatmap and PCA plot](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/sample_pca.jpg)
+
+[Heatmap of top 20 differently expressed transposable elements among various TE classes](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/heatmaps_classes3.jpg)
+
+[Volcano plots for each stage vs. adult](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/volcanoplots_new1.jpg)
+
