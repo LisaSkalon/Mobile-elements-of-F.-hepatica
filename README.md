@@ -4,7 +4,7 @@
 Transposable elements (TEs) are highly repetitive mobile sequences, which play diverse roles in genome regulation. As well, it is expected that TEs participate in lncRNAs function. In trematodes, lncRNA might be involved in development processes and life cycle regulation. For future studies it is significant to explore connection between TEs expression and developmental stages.
 
 ## Mission
-Our study is devoted to detecting transposons in transcriptomes of four different life-cycle stages of *F. hepatica* and analyzing their differential expression across stages.
+Our study is devoted to detecting transposons in transcriptomes of different life-cycle stages of *F. hepatica* and analyzing their differential expression across stages.
 
 ## Goals:
 1. Create mapping of RNA-seq data onto a list of transposons sequences
@@ -16,7 +16,10 @@ Our study is devoted to detecting transposons in transcriptomes of four differen
 ### *F. hepatica* RNA-seq data
 For our purposes we used public data which can be found in SRA NCBI archive.
 
-*Info table:* Table S1
-### List of F. hepatica TEs
-As well we applied fasta file with repeatitive elements of *F.hepatica* genome (GCA_948099385.1), created earlier with the help of RepeatMasker tool.
+*Accessions:* [Table S1](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/Table_s1.csv)
+### List of *F. hepatica* TEs
+As well we applied fasta file with repeatitive elements of *F.hepatica* genome (GCA_948099385.1), created earlier with the help of RepeatMasker tool: [Repeat database](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/f_hepatica_repeatbase.fasta)
+
+### Workflow
+![workflow](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/scheme.jpg)
 
