@@ -18,7 +18,7 @@ For our purposes we used public data which can be found in SRA NCBI archive.
 
 *Accessions:* [Table S1](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/Table_s1.csv)
 ### List of *F. hepatica* TEs
-As well we applied fasta file with repeatitive elements of *F.hepatica* genome (GCA_948099385.1), created earlier with the help of RepeatMasker tool: [Repeat database](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/f_hepatica_repeatbase.fasta)
+As well we applied fasta file with repeatitive elements of *F.hepatica* genome (GCA_948099385.1), created earlier with the help of RepeatModeler tool: [Repeat database](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/f_hepatica_repeatbase.fasta)
 
 ### Workflow
 ![workflow](https://github.com/LisaSkalon/Mobile_elements_of_F.hepatica/blob/main/scheme.jpg)
